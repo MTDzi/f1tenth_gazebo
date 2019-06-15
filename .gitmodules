@@ -1,0 +1,12 @@
+[submodule "catkin_ws/src/particle_filter"]
+	path = catkin_ws/src/particle_filter
+	url = https://github.com/MTDzi/particle_filter
+[submodule "catkin_ws/src/mpc"]
+	path = catkin_ws/src/mpc
+	url = https://github.com/MTDzi/mpc
+[submodule "catkin_ws/src/f110-fall2018-skeletons"]
+	path = catkin_ws/src/f110-fall2018-skeletons
+	url = https://github.com/MTDzi/f110-fall2018-skeletons
+[submodule "CarND-MPC-Quizzes"]
+	path = CarND-MPC-Quizzes
+	url = https://github.com/MTDzi/CarND-MPC-Quizzes

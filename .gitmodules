@@ -10,3 +10,6 @@
 [submodule "CarND-MPC-Quizzes"]
 	path = CarND-MPC-Quizzes
 	url = https://github.com/MTDzi/CarND-MPC-Quizzes
+[submodule "range_libc"]
+	path = range_libc
+	url = http://github.com/kctess5/range_libc
